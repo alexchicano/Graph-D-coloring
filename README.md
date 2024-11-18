@@ -11,5 +11,4 @@ This repository contains scripts developed to solve a graph coloring problem usi
 - **`greedy.cc`**: Contains the greedy algorithm for graph coloring.
 - **`mh.cc`**: Implements the metaheuristic approach using a genetic algorithm.
 - **`Makefile`**: Facilitates the compilation of the code.
-- **`README.md`**: Provides an overview and instructions for the project.
 - **`result.txt`**: Stores the results obtained from running the algorithms.
